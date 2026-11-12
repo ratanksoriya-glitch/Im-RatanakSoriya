@@ -1,0 +1,22 @@
+body{
+    /* background-color: pink; */
+    text-align: center ;
+    background-image: url(download.jpg);
+    background-size: cover;
+     background-position: center;
+    background-repeat: no-repeat;
+    min-height: 300px;
+    padding: 40px;
+    
+}
+.btn{
+     background-color: #0066cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background-color: #004c99;
+}
